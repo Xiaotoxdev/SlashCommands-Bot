@@ -14,9 +14,7 @@ npm i
 
 ```json
 //.env
-{
-    "token": "TOKEN"
-}
+token=TOKEN
 ```
 
 ## How to start ?

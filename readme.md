@@ -6,7 +6,7 @@ Github post is a discord bot handler with slashcommands in v13
 
 You need to have Node.JS 16+
 ``````bash
-git clone https://github.com/Xiaotoxdev/ticket-bot.git
+git clone https://github.com/Xiaotoxdev/slashCommands-Bot.git
 npm i
 ``````
 

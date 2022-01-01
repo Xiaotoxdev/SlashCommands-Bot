@@ -13,7 +13,7 @@ npm i
 ## How to config ?
 
 ```.env
-//.env
+.env :
 token=TOKEN
 ```
 

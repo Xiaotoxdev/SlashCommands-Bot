@@ -12,7 +12,7 @@ npm i
 
 ## How to config ?
 
-```json
+```.env
 //.env
 token=TOKEN
 ```
